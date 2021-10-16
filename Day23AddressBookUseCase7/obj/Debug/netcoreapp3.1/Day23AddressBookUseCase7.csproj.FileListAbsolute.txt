@@ -1,0 +1,13 @@
+C:\Day23\Day23AddressBookUseCase7\bin\Debug\netcoreapp3.1\Day23AddressBookUseCase7.exe
+C:\Day23\Day23AddressBookUseCase7\bin\Debug\netcoreapp3.1\Day23AddressBookUseCase7.deps.json
+C:\Day23\Day23AddressBookUseCase7\bin\Debug\netcoreapp3.1\Day23AddressBookUseCase7.runtimeconfig.json
+C:\Day23\Day23AddressBookUseCase7\bin\Debug\netcoreapp3.1\Day23AddressBookUseCase7.runtimeconfig.dev.json
+C:\Day23\Day23AddressBookUseCase7\bin\Debug\netcoreapp3.1\Day23AddressBookUseCase7.dll
+C:\Day23\Day23AddressBookUseCase7\bin\Debug\netcoreapp3.1\Day23AddressBookUseCase7.pdb
+C:\Day23\Day23AddressBookUseCase7\obj\Debug\netcoreapp3.1\Day23AddressBookUseCase7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Day23\Day23AddressBookUseCase7\obj\Debug\netcoreapp3.1\Day23AddressBookUseCase7.AssemblyInfoInputs.cache
+C:\Day23\Day23AddressBookUseCase7\obj\Debug\netcoreapp3.1\Day23AddressBookUseCase7.AssemblyInfo.cs
+C:\Day23\Day23AddressBookUseCase7\obj\Debug\netcoreapp3.1\Day23AddressBookUseCase7.csproj.CoreCompileInputs.cache
+C:\Day23\Day23AddressBookUseCase7\obj\Debug\netcoreapp3.1\Day23AddressBookUseCase7.dll
+C:\Day23\Day23AddressBookUseCase7\obj\Debug\netcoreapp3.1\Day23AddressBookUseCase7.pdb
+C:\Day23\Day23AddressBookUseCase7\obj\Debug\netcoreapp3.1\Day23AddressBookUseCase7.genruntimeconfig.cache
